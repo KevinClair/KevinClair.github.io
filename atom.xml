@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mingkabum.github.io</id>
     <title>MingKaBum</title>
-    <updated>2019-12-29T15:33:39.382Z</updated>
+    <updated>2020-01-01T02:22:30.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mingkabum.github.io"/>
     <link rel="self" href="https://mingkabum.github.io/atom.xml"/>
     <subtitle>何以与君识，无言泪千行。</subtitle>
     <logo>https://mingkabum.github.io/images/avatar.png</logo>
     <icon>https://mingkabum.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2019, MingKaBum</rights>
+    <rights>All rights reserved 2020, MingKaBum</rights>
     <entry>
         <title type="html"><![CDATA[Hello,Firends.]]></title>
         <id>https://mingkabum.github.io/post/hellofirends</id>
@@ -18,7 +18,7 @@
         <updated>2019-12-29T15:05:41.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[测试一下]]></title>
+        <title type="html"><![CDATA[Mybatis的启动流程解析]]></title>
         <id>https://mingkabum.github.io/post/mybatis</id>
         <link href="https://mingkabum.github.io/post/mybatis">
         </link>
